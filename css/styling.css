@@ -1,0 +1,32 @@
+.centerIt {
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  }
+body{
+  background-color: papayawhip;
+}
+
+.cardTitle{
+  text-align: left;
+  margin-top: 5%;
+  margin-left: 50px;
+}
+.cardText{
+  max-width: 50%;
+  margin-left: 5%;
+}
+
+.comment{
+  font-weight: lighter;
+  text-align: center;
+}
+.comment:hover{
+  text-decoration: underline;
+  color:blue;
+  cursor: pointer;
+}
+.cardTitle{
+  display: none;
+}
