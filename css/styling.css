@@ -21,6 +21,7 @@ body{
 .comment{
   font-weight: lighter;
   text-align: center;
+  padding-left: 22%;
 }
 .comment:hover{
   text-decoration: underline;
